@@ -1,3 +1,2 @@
-print('hello! this is Github!-Navisthi')
-print('Main Branch Update')
+print('hi! this is Github!-Navisthi')
 print('Feature branch update')
